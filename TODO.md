@@ -2,9 +2,9 @@
 
 this fork will add:
 
-tui using bubble gum
+tui using bubble tea: https://github.com/charmbracelet/bubbletea
 
-gui using giooui
+gui using giooui: https://github.com/gioui
 
 transport using nats, so that we can interact with local or remote file systems over the nats transport.
 
